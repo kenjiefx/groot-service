@@ -1,0 +1,19 @@
+{
+  "name": "groot-service",
+  "version": "1.0.0",
+  "description": "Fake API service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenjiefx/groot-service.git"
+  },
+  "author": "Ken Terrado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenjiefx/groot-service/issues"
+  },
+  "homepage": "https://github.com/kenjiefx/groot-service#readme"
+}

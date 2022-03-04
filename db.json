@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "firstName": "Vince",
+      "lastName": "Legardo",
+      "createdAt": "2022-03-08",
+      "username": "vlegardo",
+      "email": "vlegardo@gmail.com",
+      "userId": "1",
+      "id": 1
+    },
+    {
+      "firstName": "Kenjie",
+      "lastName": "Terrado",
+      "createdAt": "2022-03-08",
+      "username": "rterrado",
+      "email": "terradokenjie@gmail.com",
+      "userId": "2",
+      "id": 2
+    }
+  ],
+  "posts": [],
+  "comments": []
+}
